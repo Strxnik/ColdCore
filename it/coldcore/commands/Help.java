@@ -1,4 +1,4 @@
-package it.coldcore.commands.help;
+package it.coldcore.commands;
 
 import it.coldcore.main.main;
 import org.bukkit.ChatColor;
