@@ -1,8 +1,7 @@
-package it.coldcore.utils;
+package src.it.coldcore.java.utils;
 
-import it.coldcore.main.main;
+import src.it.coldcore.java.main.main;
 import org.bukkit.Bukkit;
-import org.bukkit.scheduler.BukkitScheduler;
 
 import java.io.IOException;
 import java.io.InputStream;
