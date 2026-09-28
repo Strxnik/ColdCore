@@ -1,0 +1,19 @@
+name: ColdCore
+version: 1.0.1
+main: src.it.coldcore.java.main.main
+api-version: 1.20.6
+authors: [ Strxink ]
+commands:
+  feed:
+    usage: /<command>
+  heal:
+    usage: /<command>
+  gamemode:
+    usage: /<command>
+    aliases: [gm]
+  coldcore:
+    usage: /<command>
+  tp:
+    usage: /<command>
+  backpack:
+    usage: /<command>

@@ -1,0 +1,11 @@
+prefix: "&bColdCore &e» "
+
+#Placeholders: "%player%"
+join-message: "&7[&a+&7] &7%player%"
+quit-message: "&7[&c-&7] &7%player%"
+
+no-permission: "&cYou don't have the permission. "
+command-not-enabled: "&cThis command isn't enabled. "
+healed: "&aYou have been healed. "
+dirt-break-denied: "&cYou can't break this block. "
+syntax-error: "&cThe syntax of the command is wrong. "
